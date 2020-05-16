@@ -1,4 +1,7 @@
-Enlightenment Foundation Libraries is a set of libraries each providing
-a great deal of functionality.
+The Enlightenment Foundation Libraries (EFL) drive Enlightenment, but they
+can also be used independently or built on top of one other to provide useful
+features and create powerful applications. The core EFL libraries are much
+more efficient in both speed and size than their GTK+ and Qt equivalents,
+and have a smaller memory footprint.
 
 WWW: https://docs.enlightenment.org/efl/current/
